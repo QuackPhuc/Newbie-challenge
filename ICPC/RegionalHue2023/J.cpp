@@ -4,7 +4,7 @@
 #include <algorithm>
 #define ui unsigned int
 using namespace std;
-
+/* WA
 void Solution(int &traps)
 {
     vector<array<ui, 3>> listT; // index, first, second
@@ -111,4 +111,4 @@ int main()
         cin >> traps;
     }
     return 0;
-}
+} */
